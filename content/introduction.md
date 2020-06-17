@@ -4,12 +4,12 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
+This is the the course for Gatsby web development
 
-# Heading H1
+# Who is it for?
 Heading 1 text
 
-## Heading H2
+# Materials
 Heading 2 text
 
 ### Heading H3
